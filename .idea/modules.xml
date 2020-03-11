@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Esportes/Esportes.iml" filepath="$PROJECT_DIR$/Esportes/Esportes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cadastro/cadastro.iml" filepath="$PROJECT_DIR$/cadastro/cadastro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grafico/grafico.iml" filepath="$PROJECT_DIR$/grafico/grafico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lightwave-esportes.iml" filepath="$PROJECT_DIR$/lightwave-esportes.iml" />
+    </modules>
+  </component>
+</project>

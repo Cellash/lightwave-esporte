@@ -1,0 +1,7 @@
+Esportes de marca:  todas as provas do atletismo, patinação de velocidade, remo, ciclismo, levantamento de peso, natação, etc
+Esportes técnico-combinatórios: todas as modalidades de ginástica (acrobática, aeróbica esportiva, artística, rítmica, de trampolim), patinação artística, nado sincronizado, saltos ornamentais, skate, slackline, surf, etc.
+Esportes de precisão: A pontaria é a capacidade mais importante nesses esportes. Exemplos: bocha, croquet, curling, golfe, sinuca, tiro com arco, tiro esportivo, etc.
+Esportes de combate:  Exemplo: boxe, esgrima, jiu-jítsu, judô, karatê, sumô, taekwondo, etc.
+Esportes de campo e taco: Exemplo: beisebol, brännboll, críquete, lapta, pesapallo, rounders, softbol.
+Esportes com rede divisória ou parede de rebote: Podemos citar como exemplos de esportes com rede divisória o voleibol, vôlei de praia, tênis, badminton, pádel, peteca, sepaktakraw, ringo, ringtennis. E como exemplos de esportes com parede de rebote, a pelota basca, raquetebol, squash, etc.
+Esportes de invasão: basquetebol, corfebol, floorball, frisbee, futebol, futsal, futebol americano, handebol, hóquei na grama, lacrosse, polo aquático, rúgbi, etc.
